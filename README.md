@@ -23,13 +23,13 @@ In order to convert one currency into another, a user enters an amount of money 
 <h2> Screenshots </h2>
 <ul>
   <li> Project ser interface.<hr>
-      <img src="https://imgyukle.com/i/IS5COc">
+      <img src="images/cur1.png">
   </li>
   <li> The view when currencies are selected.<hr>
-      <img src="https://imgyukle.com/i/IS5SUR">
+      <img src="images/cur2.png">
   </li>
   <li> The view when currency transaction is done.<hr>
-      <img src="https://imgyukle.com/i/IS5uAe">
+      <img src="images/cur3.png">
   </li>
 </ul>
 
