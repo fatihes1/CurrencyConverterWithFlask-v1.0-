@@ -32,7 +32,7 @@ In order to convert one currency into another, a user enters an amount of money 
       <img src="images/cur3.png">
   </li>
 </ul>
-<h2> What is Currency Converter? </h2>
+<h2> Information</h2>
 I used <a href="fixer.io"> fixer.io </a> free account so currency values are updated once an hour hour. Plus this, the design is quite simple.
 
 
