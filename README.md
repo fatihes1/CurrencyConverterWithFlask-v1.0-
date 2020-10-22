@@ -22,7 +22,7 @@ Codes that must be run in the terminal for this project to work:
 In order to convert one currency into another, a user enters an amount of money (e.g. '1000') and chooses the currency he/she wishes to check the monetary value of (e.g. 'United States Dollar'). After that, the user selects one, or sometimes several other currencies, he/she would like to see the result in. The application software then calculates and displays the corresponding amount of money.If you want to see an advanced currency converter,click <a href="https://www.xe.com/currencyconverter/">here</a>. </p>
 <h2> Screenshots </h2>
 <ul>
-  <li> Project ser interface.<hr>
+  <li> Project user interface.<hr>
       <img src="images/cur1.png">
   </li>
   <li> The view when currencies are selected.<hr>
@@ -32,4 +32,8 @@ In order to convert one currency into another, a user enters an amount of money 
       <img src="images/cur3.png">
   </li>
 </ul>
+<h2> What is Currency Converter? </h2>
+I used <a href="fixer.io"> fixer.io </a> free account so currency values are updated once an hour hour. Plus this, the design is quite simple.
+
+
 
