@@ -1,7 +1,7 @@
 from flask import Flask,render_template,request
 import requests
 
-api_key = "35c1fbfe2a35fd3aaf075e7394bf8855"
+api_key = #Your Fixer API key should be on there like a string value 
 url = "http://data.fixer.io/api/latest?access_key="+api_key
 
 
