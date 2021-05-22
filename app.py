@@ -4,6 +4,7 @@ import requests
 api_key = #Your Fixer API key should be on there like a string value 
 url = "http://data.fixer.io/api/latest?access_key="+api_key
 
+# made by me github desktop
 
 app = Flask(__name__)
 
